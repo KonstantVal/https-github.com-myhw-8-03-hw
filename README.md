@@ -25,12 +25,14 @@
 ### Задание 1
 
 https://github.com/KonstantVal/my-first-repository-gitlab-hw/blob/main/README.md?plain=1
+https://github.com/KonstantVal/my-first-repository-gitlab-hw/blob/0bc6f2414ff8538b272aee2de7cc949db53858aa/README.md
 
 ---
 
 ### Задание 2
 
 https://github.com/KonstantVal/my-first-repository-gitlab-hw/blob/main/.gitignore
+https://github.com/KonstantVal/my-first-repository-gitlab-hw/blob/0bc6f2414ff8538b272aee2de7cc949db53858aa/.gitignore
 
 ---
 
