@@ -1,7 +1,5 @@
 # Домашнее задание к занятию 2 "Кластеризация и балансировка нагрузки - Шмаков Владимир"
-
 ---
-
 ### Задание 1
 1. Запустите два simple python сервера на своей виртуальной машине на разных портах
 2. Установите и настройте HAProxy, воспользуйтесь материалами к лекции по ссылке
@@ -10,9 +8,8 @@
 
 ### Решение 1
 https://drive.google.com/file/d/1Kx9odQK__PUnxmsWjlXx0B_zlDR5uEJy/view?usp=drive_link
-![7](https://github.com/user-attachments/assets/2fc67ed1-3190-4a80-ba53-2b92ee012de5)
-![6](https://github.com/user-attachments/assets/daad6e9a-28ef-480a-aaf8-307f77d3cadd)
-
+![7](https://github.com/user-attachments/assets/2300a018-3e20-44a8-9b92-f7d4b5fd3618)
+![8](https://github.com/user-attachments/assets/c232d91e-6f85-4d29-92c4-f1c88510f8af)
 
 ---
 
