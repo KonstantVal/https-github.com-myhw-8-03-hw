@@ -24,7 +24,6 @@
 
 ### Решение 2
 
-backup_script.sh
 
 ![2](https://github.com/user-attachments/assets/ad19ae3d-4881-47d3-bd2f-944b51c8b0c3)
 ![3](https://github.com/user-attachments/assets/e4702135-610b-47e3-912e-1438faf7777a)
