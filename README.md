@@ -21,9 +21,9 @@
 4. Резервная копия размещается локально, в директории /tmp/backup
 5. На проверку направить файл crontab и скриншот с результатом работы утилиты.
 
-
 ### Решение 2
 
+https://github.com/KonstantVal/https-github.com-myhw-8-03-hw/blob/98b1029b1fbc677c219c3373a73170a31fc38f88/backup_script.sh
 
 ![2](https://github.com/user-attachments/assets/ad19ae3d-4881-47d3-bd2f-944b51c8b0c3)
 ![3](https://github.com/user-attachments/assets/e4702135-610b-47e3-912e-1438faf7777a)
