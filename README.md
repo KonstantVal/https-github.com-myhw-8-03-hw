@@ -30,6 +30,9 @@ https://github.com/KonstantVal/https-github.com-myhw-8-03-hw/blob/134c0034351272
 
 
 ### Решение 2
+1. Bash-скрипт https://github.com/KonstantVal/https-github.com-myhw-8-03-hw/blob/b3eb4b59a30dfc86910183034e6b6478ed57bca0/nginx_check.sh
+2. Файл keepalived.conf https://github.com/KonstantVal/https-github.com-myhw-8-03-hw/blob/b3eb4b59a30dfc86910183034e6b6478ed57bca0/keepalived.conf
+3. Cкриншоты
 ![1](https://github.com/user-attachments/assets/09a5a7b7-d97b-4097-a866-918f686f5c35)
 ![2](https://github.com/user-attachments/assets/462fcf6b-5357-4ab0-95e5-8925dc628601)
 ![3](https://github.com/user-attachments/assets/4f62078c-23b7-4ac9-8aa0-9b04198b699f)
