@@ -13,6 +13,7 @@
 
 
 ### Решение 1
+https://github.com/KonstantVal/https-github.com-myhw-8-03-hw/blob/134c00343512724cb9d856436b365a59b3e4564d/HSRP.pkt
 ![CPT](https://github.com/user-attachments/assets/6c3e738e-49bb-4797-bb37-6a8261b20f90)
 ![CPT2](https://github.com/user-attachments/assets/27bc7363-38eb-4931-ae32-da984eea95be)
 
