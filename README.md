@@ -8,8 +8,7 @@
 Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.
 
 ### Решение 1
-![11-04-1](https://github.com/user-attachments/assets/9e3c52b2-9227-4f39-889e-b769c50e567d)
-
+![11-04-11](https://github.com/user-attachments/assets/e32eab7c-afc4-44ae-ba3a-4e562aa5342e)
 
 ---
 
