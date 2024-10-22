@@ -80,6 +80,7 @@ $ rabbitmqadmin get queue='hello'
 ![11-04-9](https://github.com/user-attachments/assets/5dbc261e-9246-45e3-bf67-051b90317c90)
 
 После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
+
 Приложите скриншот результата работы второго скрипта.
 
 ![image](https://github.com/user-attachments/assets/d8d04581-d3ec-4f9f-a3ad-0bb763161f09)
