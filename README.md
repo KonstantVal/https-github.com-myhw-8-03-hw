@@ -29,7 +29,8 @@ $ pip install pika
 
 ![11-04-2](https://github.com/user-attachments/assets/4df7ba03-49d4-4311-b11f-238df912cf17)
 
-![11-04-3](https://github.com/user-attachments/assets/64c042b3-d899-4f13-a1ea-38ac2a11eec8)
+![11-04-3](https://github.com/user-attachments/assets/4b690d19-9192-4e00-837b-85e627722103)
+
 
 
 ---
