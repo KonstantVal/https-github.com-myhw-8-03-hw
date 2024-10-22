@@ -1,15 +1,14 @@
 # Домашнее задание к занятию "Очереди RabbitMQ - Шмаков Владимир"
 
 ---
+### Задание 1 Установка RabbitMQ
 
-### Задание 1
-Установка RabbitMQ
 Используя Vagrant или VirtualBox, создайте виртуальную машину и установите RabbitMQ. Добавьте management plug-in и зайдите в веб-интерфейс.
 
 Итогом выполнения домашнего задания будет приложенный скриншот веб-интерфейса RabbitMQ.
 
 ### Решение 1
-![11-04-1](https://github.com/user-attachments/assets/638c1b19-df7d-4f9c-9f59-23dcfd437adc)
+![11-04-1](https://github.com/user-attachments/assets/9e3c52b2-9227-4f39-889e-b769c50e567d)
 
 
 ---
@@ -28,7 +27,9 @@ $ pip install pika
 Для закрепления материала можете попробовать модифицировать скрипты, чтобы поменять название очереди и отправляемое сообщение.
 
 ### Решение 2
+
 ![11-04-2](https://github.com/user-attachments/assets/4df7ba03-49d4-4311-b11f-238df912cf17)
+
 ![11-04-3](https://github.com/user-attachments/assets/64c042b3-d899-4f13-a1ea-38ac2a11eec8)
 
 
@@ -64,14 +65,17 @@ $ rabbitmqadmin get queue='hello'
 В качестве решения домашнего задания приложите скриншоты из веб-интерфейса с информацией о доступных нодах в кластере и включённой политикой.
 
 ![11-04-4](https://github.com/user-attachments/assets/034d8adf-82b6-4cb2-af9d-c59a06efe5ba)
+
 ![11-04-5](https://github.com/user-attachments/assets/8afab057-f83a-46ee-9b40-8fd301b0a64c)
 
 Также приложите вывод команды с двух нод:
+
 ![11-04-6](https://github.com/user-attachments/assets/6771513c-dfc8-4fd6-8229-7bd9e5d070c7)
 ![11-04-7](https://github.com/user-attachments/assets/dbe71341-1f42-4587-84ca-352cec25465f)
 
 Для закрепления материала снова запустите скрипт producer.py и приложите скриншот выполнения команды на каждой из нод:
 $ rabbitmqadmin get queue='hello'
+
 ![11-04-8](https://github.com/user-attachments/assets/7f8a7b33-dc1a-4282-b1d7-5fd67c2ef5ed)
 ![11-04-9](https://github.com/user-attachments/assets/5dbc261e-9246-45e3-bf67-051b90317c90)
 
