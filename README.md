@@ -71,7 +71,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 2. Обьявить переменную с именем базы: export DBNAME=sakila
 
-3. Восстановлить базу данных из дампа:
+3. Восстановить базу данных из дампа:
 
 3.1 mysql -u root -p ${sakila}< sakila-schema.sql
 
