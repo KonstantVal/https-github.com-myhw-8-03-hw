@@ -65,6 +65,18 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 1.7. Восстановите дамп в базу данных.
 
+Для восстановления базы данных необходимо:
+
+1. Установить место восстанвления: CREATE DATABASE sakila DEFAULT CHARACTER SET utf8 DEFAULT COLLATE utf8_general_ci;
+
+2. Обьявить переменную с именем базы: export DBNAME=sakila
+
+3. Восстановлить базу данных из дампа:
+
+3.1 mysql -u root -p ${sakila}< sakila-schema.sql
+
+3.2 mysql -u root -p ${sakila}< sakila-data.sql
+
 ![10](https://github.com/user-attachments/assets/2ef7afac-531b-48b9-ba8f-b3e92c8d8f59)
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
