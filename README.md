@@ -20,7 +20,9 @@ SELECT DISTINCT district FROM address WHERE district LIKE 'K%a' AND district NOT
 
 ### Решение 2
 
-Попробовал другую форму запроса: select payment_id,amount,payment_date from payment where amount > 10.00 and date(payment_date) BETWEEN '2005-06-15' and '2005-06-18';
+Попробовал другую форму запроса: 
+
+select payment_id,amount,payment_date from payment where amount > 10.00 and date(payment_date) BETWEEN '2005-06-15' and '2005-06-18';
 
 ![2 1](https://github.com/user-attachments/assets/41f3a416-480f-4184-b1b5-239777eaecb7)
 
