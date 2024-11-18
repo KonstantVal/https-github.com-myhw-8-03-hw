@@ -38,9 +38,9 @@
 
 https://www.exploit-db.com/exploits/41974
 
-2. Linux Kernel 2.2 - TCP/IP Spoof IP
+2. vsftpd 2.3.4 - Backdoor Command Execution (Metasploit)
 
-https://www.exploit-db.com/exploits/237
+ https://www.exploit-db.com/exploits/17491
 
 3. NfSen < 1.3.7 / AlienVault OSSIM < 5.3.6 - Local Privilege Escalation
 
@@ -84,7 +84,7 @@ https://www.exploit-db.com/exploits/42305
 
 - А закрытый порт отправляет пакет RST.
 
-5. UDP - сканирование портов происходит по протоколу UDP.
+4. UDP - сканирование портов происходит по протоколу UDP.
 
 Вероятные ответы:
 
