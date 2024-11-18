@@ -27,10 +27,11 @@
 
 ### Решение 1
 
-1. Какие сетевые службы в ней разрешены?
+Какие сетевые службы в ней разрешены?
+
 ![1](https://github.com/user-attachments/assets/7f2d2a28-992e-4b0b-85b8-444ba1bed6a2)
 
-2. Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
+Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
 
 
 1. RPCBind / libtirpc - Denial of Service
@@ -44,7 +45,6 @@ https://www.exploit-db.com/exploits/237
 3. NfSen < 1.3.7 / AlienVault OSSIM < 5.3.6 - Local Privilege Escalation
 
 https://www.exploit-db.com/exploits/42305
-
 
 ---
 
